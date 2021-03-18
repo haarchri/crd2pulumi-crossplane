@@ -1,0 +1,3 @@
+name: cnp-glue
+runtime: nodejs
+description: demo for cnp glue resources as crds in pulumi
